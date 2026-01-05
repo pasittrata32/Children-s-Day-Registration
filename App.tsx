@@ -526,13 +526,6 @@ const App: React.FC = () => {
             )}
           </button>
         </form>
-
-        <footer className="mt-16 text-center text-gray-400 text-sm border-t border-gray-200 pt-8">
-          <p>© 2026 {t.schoolName}. All Rights Reserved.</p>
-          <div className="flex justify-center space-x-4 mt-2">
-            <span className="flex items-center"><Phone size={14} className="mr-1" /> 086 316 7655</span>
-          </div>
-        </footer>
       </main>
     </div>
   );
