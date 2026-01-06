@@ -7,7 +7,7 @@ export const TRANSLATIONS: Record<'TH' | 'EN', Translation> = {
     schoolName: 'โรงเรียนสาธิตอุดมศึกษา',
     eventDate: 'วันศุกร์ที่ 9 มกราคม พ.ศ. 2569',
     eventTime: 'เริ่มกิจกรรม 13.00 น.',
-    setupInfo: 'จัดบูทได้ตั้งแต่เวลา 12.00 น. เป็นต้นไป',
+    setupInfo: 'จัดบูทได้ตั้งแต่เวลา 12.30 น. เป็นต้นไป',
     parentInfo: 'ข้อมูลผู้ปกครอง',
     studentInfo: 'ข้อมูลนักเรียน',
     supportDetails: 'รายละเอียดการสนับสนุน',
