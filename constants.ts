@@ -53,7 +53,7 @@ export const TRANSLATIONS: Record<'TH' | 'EN', Translation> = {
     schoolName: 'Satit Udomseuksa School',
     eventDate: 'Friday, January 9, 2026',
     eventTime: 'Activity starts at 1:00 PM',
-    setupInfo: 'Booth setup available from 12:00 PM onwards',
+    setupInfo: 'Booth setup available from 12:30 PM onwards',
     parentInfo: 'Parent Information',
     studentInfo: 'Student Information',
     supportDetails: 'Support Details',
