@@ -23,7 +23,7 @@ const App: React.FC = () => {
     itemName: '',
     quantity: '',
     cookOnSite: false,
-    setupTime: '12:00',
+    setupTime: '12:30',
     needTable: true,
     notes: ''
   });
