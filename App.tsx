@@ -280,7 +280,7 @@ const App: React.FC = () => {
                   name="grade"
                   value={formData.grade}
                   onChange={handleInputChange}
-                  placeholder={lang === 'TH' ? 'เช่น G.1/2, ป.3/1' : 'e.g., G.1/2, Year 3'}
+                  placeholder={lang === 'TH' ? 'เช่น P.1A, ป.1A' : 'P.1A, ป.1A'}
                   className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-[#002B5B] focus:border-transparent outline-none transition-all"
                 />
               </div>
